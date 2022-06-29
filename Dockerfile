@@ -2,7 +2,6 @@ FROM python:3-alpine
 WORKDIR /service
 
 COPY requirements.txt .
-#COPY app.py ./service
 RUN pip install -r requirements.txt
 
 COPY . .

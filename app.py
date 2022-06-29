@@ -1,13 +1,13 @@
 from flask import Flask
-import time
+from time import ctime
 
 
 app = Flask(__name__)
 
+
 @app.route("/", methods = ['GET', 'POST'])
-def get_time():
-    
-    return str(time.time())
+def get_time():    
+    return str(ctime())
 
 
 app.run(host='0.0.0.0', threaded = True, debug = True)
