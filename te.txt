@@ -1,0 +1,7 @@
+local changes -> github -> jenkins(1,2) -> 1.dockerhub -> 2.kubernetes
+local changes -> gitlab -> pupet -> DTR(Docker trusted registery) -> minikube
+
+jenkins: steps
+step 1: pull from github (+ build)
+step 2: token dockerhub
+step 3: token k8s
