@@ -5,3 +5,5 @@ jenkins: steps
 step 1: pull from github (+ build)
 step 2: token dockerhub
 step 3: token k8s
+
+Finishe
