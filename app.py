@@ -16,5 +16,8 @@ def ping():
 def home():    
     return "Time service is up!"
 
+@app.route("/api/hello", methods = ['GET', 'POST'])
+def hello():
+    return "Hi !!!"
 
 app.run(host='0.0.0.0', threaded = True, debug = True)
