@@ -9,3 +9,5 @@ step 3: token k8s
 Finishe
 
 For new Jenkins installation test.
+
+For new test. :)
