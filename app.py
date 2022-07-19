@@ -1,5 +1,3 @@
-#from crypt import methods
-#from urllib import response
 from flask import Flask
 from flask import jsonify
 from time import ctime
@@ -23,11 +21,27 @@ def hello():
 @app.route("/api/pingme", methods = ['GET', 'POST'])
 def pingme():
 
-    host = "8.8.8.8";
-    response = os.system("ping -c 1 " + host)
-    if response == 0:
-        return "Fine"
-    else:
-        return "Failed !!!"
+    # host = "8.8.8.8";
+    # response = os.system("ping -c 1 " + host)
+    # if response == 0:
+    #     return f"<font face=tahoma size=10 color=green> Fine :) </font>"
+    # else:
+    #     return f"<font face=tahoma size=20 color=red> Failed </font>"
 
-app.run(host='0.0.0.0', threaded = True, debug = True)
+    hosts = ["8.8.8.8", "4.4.4.4"];
+
+    i = 0;
+
+    for host in hosts:
+        response = os.system("ping -c 1 " + hosts[i])
+    
+        if response == 0:
+            return f"<font face=tahoma size=10 color=green> \
+                The Internet connection is stabilished and is Fine :) </font>"
+        else:
+            return f"<font face=tahoma size=20 color=red> \
+                The Internet connection is Failed !!! </font>"
+
+#app.run(debug=True)
+#"<html><meta http-equiv='refresh' content='5' ></html>"
+#app.run(host='172.18.0.22', threaded = True, debug = True)
