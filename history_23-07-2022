@@ -1,0 +1,1144 @@
+    1  s
+    2  sudo su -
+    3  apt install kazem
+    4  apt install kazam
+    5  apt-get  kazam install
+    6  apt-get install kazam
+    7  sudo su -
+    8  java -version
+    9  jre= java runtime env.
+   10  pwd
+   11  cd ..
+   12  ls
+   13  ll
+   14  cd babak/
+   15  ll
+   16  ls jdk*
+   17  ls -ltr
+   18  cd jdk-17/bin/
+   19  ls
+   20  ./java -version
+   21  pwd
+   22  vi ~/.bashrc 
+   23  vim ~/.bashrc 
+   24  vi ~/.bashrc 
+   25  nano  ~/.bashrc 
+   26  exit
+   27  java
+   28  ls -ltr
+   29  ./idea-IC-212.5457.46/bin/idea.sh 
+   30  ./idea-IC-212.5457.46/bin/idea.sh
+   31  init 0
+   32  s
+   33  sudo su -
+   34  ifconfig
+   35  whoami
+   36  service iptables sop
+   37  service iptables stop
+   38  sudo ufw disable
+   39  sudo su -
+   40  sudo snap install eog
+   41  eog
+   42  gsettings set org.gnome.eog.fullscreen seconds 15
+   43  gsettings set org.gnome.eog.fullscreen seconds 12
+   44  exit
+   45  gsettings set org.gnome.eog.fullscreen seconds 12
+   46  ls
+   47  c
+   48  p
+   49  w
+   50  ls
+   51  cd out
+   52  ls
+   53  exit
+   54  pwd
+   55  ls
+   56  cd IdeaProjects/
+   57  ls
+   58  cd Calculator/
+   59  ls
+   60  cd scr
+   61  cd src
+   62  ls
+   63  java
+   64  ls
+   65  javac Calculator.java 
+   66  history
+   67  ls
+   68  javac Calculator
+   69  java Calculator
+   70  java Calculator.class
+   71  javac Calculator.java 
+   72  javac Calculator.class
+   73  java Calculator
+   74  javac Calculator.java
+   75  java Calculator
+   76  ls
+   77  sudo java Calculator
+   78  sudo su -
+   79  sudo java Calculator
+   80  sudo java Calculator.java
+   81  ed
+   82  exit
+   83  pwd
+   84  cd IdeaProjects/
+   85  ls
+   86  cd CalcNew/
+   87  ls
+   88  cd src
+   89  ls
+   90  CalcCoypVideo
+   91  java CalcCoypVideo
+   92  javac CalcCoypVideo.java
+   93  ls
+   94  javac CalcCopyVideo.java
+   95  java CalcCopyVideo
+   96  p
+   97  ed
+   98  cd\
+   99  cd ..
+  100  ed
+  101  p
+  102  cd IdeaProjects/
+  103  ls
+  104  cd CalcNew/
+  105  ls
+  106  cd src
+  107  ls
+  108  java CalcCopyVideo
+  109  javac CalcCopyVideo.java
+  110  java CalcCopyVideo
+  111  java CalcCopyVideoثطهف
+  112  exit
+  113  cd IdeaProjects/
+  114  ls
+  115  cd CalcNew/
+  116  ls
+  117  cd src
+  118  ls
+  119  java CalcCopyVideo
+  120  ls
+  121  history
+  122  gsettings set org.gnome.eog.fullscreen seconds 12
+  123  cd /
+  124  pwd
+  125  ed
+  126  cd /home/babak/
+  127  ed
+  128  exit
+  129  p
+  130  sudo su -
+  131  ed
+  132  mc
+  133  pwd
+  134  ls
+  135  java com.arponix.ConnectToMysql
+  136  export CLASSPATH=~/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar 
+  137  java com.arponix.ConnectToMysql
+  138  export CLASSPATH=~/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar;/home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  139  chmod 644 /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  140  export CLASSPATH=~/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar;/home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  141  ll
+  142  pws
+  143  wd
+  144  pwd
+  145  chmod 777 /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  146  export CLASSPATH=~/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar;/home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  147  export CLASSPATH=~/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar:/home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar:
+  148  java com.arponix.ConnectToMysql
+  149  java com.arponix.ConnectToSqlite 
+  150  c
+  151  export CLASSPATH=        /home/babak/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar:        /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar:        /home/babak/.m2/repository/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar:         /home/babak/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar
+  152  export CLASSPATH=/home/babak/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar:/home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar:/home/babak/.m2/repository/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar:/home/babak/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar
+  153  java com.arponix.ConnectToSqlite 
+  154  java com.arponix.ConnectToH2
+  155  java com.arponix.ConnectToMysql 
+  156  ls -l
+  157  rm example.db.mv.db
+  158  rm sample.db
+  159  rm apache-maven-3.8.4-bin.tar.gz
+  160  ls -l
+  161  java com.arponix.ConnectToMysql 
+  162  java com.arponix.ConnectToH2
+  163  ls
+  164  java com.arponix.ConnectToSqlite 
+  165  ls -l
+  166  export CLASSPATH=/home/babak/.m2/repository/com/arponix/db-connectors/1.0-SNAPSHOT/db-connectors-1.0-SNAPSHOT.jar:/home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar:/home/babak/.m2/repository/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar:/home/babak/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar
+  167  java com.arponix.ConnectToSqlite 
+  168  history
+  169  exit
+  170  ls/home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector
+  171  ls /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector
+  172  ls /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27
+  173  ls /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  174  sudo chmod 644  /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  175  ll
+  176  ls -l /home/babak/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+  177  ch
+  178  ls
+  179  ls -l /home/babak/.m2/repository/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar
+  180  ls
+  181  pwd
+  182  ls -l /home/babak/.m2/repository/com/h2database/h2/1.4.200/h2-1.4.200.jar
+  183  history
+  184  exit
+  185  history 
+  186  exit
+  187  ثطهف
+  188  exit
+  189  pwd
+  190  cd IdeaProjects/
+  191  ls
+  192  cd java-examples/
+  193  ls
+  194  cd properties-files/
+  195  ls
+  196  cd ..
+  197  ls
+  198  c
+  199  ls
+  200  pwd
+  201  c
+  202  ls  -l
+  203  git status
+  204  git add . 
+  205  git status
+  206  git commit -m "Adding unit tests"
+  207  git status
+  208  mvn clean install
+  209  mvn clean install -DskipTests
+  210  mvn test
+  211  mvn test -Dtest=DbConCheckTest
+  212  mvn -Dtest=DbConCheckTest test
+  213  mvn clean install
+  214  mvn clean install -pl db-tutorials
+  215  mvn clean install
+  216  mvn clean install -pl db-tutorials
+  217  mvn test -pl db-tutorials
+  218  mvn test -pl db-tutorials -Dtest=DbConfigTest
+  219  mvn test -pl db-tutorials -Dtest=DbConfigTest#testPort
+  220  mvn clean install
+  221  p
+  222  mvn clean install
+  223  git log
+  224  git status
+  225  mvn clean install
+  226  git status
+  227  mvn clean install
+  228  p
+  229  c
+  230  ed
+  231  ls
+  232  pwd
+  233  ed
+  234  eit
+  235  exit
+  236  cd IdeaProjects/
+  237  ls
+  238  cd java-examples/
+  239  ls
+  240  mvn clean install
+  241  git status
+  242  git add .
+  243  git status
+  244  c
+  245  git status
+  246  mvn clean install
+  247  mvn clean instal -DskipTests
+  248  mvn clean instal -Dskiptests
+  249  mvn clean instal -DskipTest
+  250  mvn clean install
+  251  git status
+  252  git add .
+  253  git 
+  254  git status
+  255  exit
+  256  cd java
+  257  cd java-examples/
+  258  mvn clean install
+  259  git status
+  260  git add .
+  261  git status
+  262  git commit -m "List test and Tutor"
+  263  git status
+  264  c
+  265  p
+  266  exit
+  267  mvn clean install
+  268  cd IdeaProjects/
+  269  cd java-examples/
+  270  mvn clean install
+  271  git add .
+  272  git status
+  273  git commit -m "Nothing is new git status! - 13 DEC. 2021"
+  274  git status
+  275  c
+  276  sudo apt update 
+  277  sudo update install snapd
+  278  sudo apt install snapd
+  279  sudo snap install zoom-client
+  280  c
+  281  mvn clean install
+  282  git add .
+  283  git status
+  284  git comitt -m "DEC 14 2021"
+  285  git status
+  286  git comitt -m "DEC 14 2021"
+  287  git commit -m "DEC 14 2021"
+  288  git status
+  289  c
+  290  exit
+  291  cd IdeaProjects/
+  292  cd java-examples/
+  293  mvn clean install
+  294  git add .
+  295  git status
+  296  git commit 
+  297  gir status
+  298  git status
+  299  git commit -m "Nothing"
+  300  git status
+  301  c
+  302  find . -name *.jar 
+  303  mvn clean install
+  304  find . -name *.jar 
+  305  git add .
+  306  mvn clean install
+  307  git add .
+  308  git commit
+  309  git status
+  310  git log
+  311  git log -oneline 
+  312  git log --oneline 
+  313  exit
+  314  cd IdeaProjects/
+  315  cd j
+  316  cd java-examples/
+  317  mvn clean install
+  318  git add .
+  319  git status
+  320  git commit 
+  321  git status
+  322  c
+  323  exit
+  324  cd IdeaProjects/
+  325  cd java-examples/
+  326  mvn clean install
+  327  git add .
+  328  git status
+  329  git commit
+  330  git status
+  331  c
+  332  exit
+  333  ed
+  334  git --version
+  335  find / -name git*
+  336  c
+  337  cd IdeaProjects/java-examples/
+  338  pwd
+  339  ls
+  340  ls -ltr
+  341  ls a
+  342  ls -a
+  343  ls .git
+  344  cd 
+  345  ll
+  346  ls
+  347  pwd
+  348  c
+  349  pwd
+  350  mkdir tempfolder
+  351  cd tempfolder/
+  352  ls
+  353  git
+  354  ls
+  355  c
+  356  git init
+  357  ls -a
+  358  ls .git/
+  359  ls -ltr .git/
+  360  git config ls
+  361  git config -l
+  362  cat .git/config 
+  363  ll
+  364  local tempfolder ---------------------> remote tempfolder
+  365  cd ..
+  366  rm -r tempfolder/
+  367  git clone https://github.com/mhdnamvar/node-emv.git
+  368  ll
+  369  alias ll='ls -ltr'
+  370  ll
+  371  cd node-emv/
+  372  ll
+  373  ll -a
+  374  cd ..
+  375  rm -rf node-emv/
+  376  ll
+  377  git clone https://github.com/mhdnamvar/node-emv.git
+  378  ll
+  379  rm -rf node-emv/
+  380  cd IdeaProjects/
+  381  ll
+  382  mv java-examples/ java-examples-bak
+  383  ll
+  384  pwd
+  385  git clone https://github.com/bobi-culture/java-examples.git
+  386  ls
+  387  ll
+  388  cd java-examples
+  389  ls
+  390  mvn clean install
+  391  cd ../java-examples-bak/
+  392  ll
+  393  ll -a
+  394  cd ..
+  395  ll
+  396  cd java-examples
+  397  ll -a
+  398  cd ..
+  399  git clone https://github.com/bobi-culture/java-examples.git foo
+  400  ll
+  401  cd foo/
+  402  ll -a
+  403  cd ..
+  404  ll
+  405  rm -r foo/
+  406  rm -rf foo/
+  407  python
+  408  history
+  409  mvn clean install
+  410  cd java
+  411  ls
+  412  cd java-examples
+  413  ls
+  414  mvn clean install
+  415  git add .
+  416  git status
+  417  git commit -m "The UUID test and complition"
+  418  git status
+  419  mvn clean install
+  420  git add .
+  421  git status
+  422  git commit -m "The Last change for UUID, ISSUE #1 is Done!"
+  423  git status
+  424  c
+  425  exit
+  426  exit
+  427  hitory
+  428  history
+  429  exit
+  430  cd /
+  431  cd I
+  432  cd home/
+  433  cd babak/
+  434  cd IdeaProjects/
+  435  cd Java-Tutorial-for-Beginners_U_1/
+  436  cd ..
+  437  cd java-examples
+  438  ls
+  439  cd ..
+  440  ls -ali
+  441  mkdir  demo
+  442  ls
+  443  cd demo
+  444  ls
+  445  ls -ali
+  446  git clone git@github.com:bobi-culture/demo-repo.git
+  447  ls
+  448  cd demo-repo/
+  449  ls
+  450  ls -ali
+  451  cd demo-repo/
+  452  ls
+  453  git status
+  454  git add . 
+  455  git status
+  456  get config -l
+  457  git config -l
+  458  git push 
+  459  git push origin https://github.com/bobi-culture/demo-repo
+  460  git push https://github.com/bobi-culture/demo-repo
+  461  p
+  462  ح
+  463  p
+  464  exit
+  465  p
+  466  ed
+  467  exit
+  468  ls -ali
+  469  cd phonebook/
+  470  ls
+  471  ed
+  472  p
+  473  find / -name CV*
+  474  cd /home/babak/@savola_laptop/Data_/Downloads/
+  475  ls
+  476  ls -ali  CV*
+  477  pwd
+  478  p
+  479  pp
+  480  p
+  481  ثطهف
+  482  exit
+  483  p
+  484  pwd
+  485  cd @ S
+  486  ls 
+  487  cd @savola_laptop/
+  488  ls
+  489  cd Data_/
+  490  ls
+  491  cd 'C - Drive from HP laptop'
+  492  ls
+  493  cd 'PACKAGES- GE - Setup - واالخ'
+  494  ls
+  495  py 'Test_for GE_1_on site_ARP.py'
+  496  ./'Test_for GE_1_on site_ARP.py'
+  497  c
+  498  ls
+  499  chmod -777 'Test_for GE_1_on site_ARP.py' 
+  500  ls
+  501  ls -ali
+  502  chmod 777 'Test_for GE_1_on site_ARP.py' 
+  503  ls -ali
+  504  ./'Test_for GE_1_on site_ARP.py'
+  505  chmod 444  'Test_for GE_1_on site_ARP.py' 
+  506  ls -ali
+  507  ./'Test_for GE_1_on site_ARP.py'
+  508  'Test_for GE_1_on site_ARP.py'
+  509  chmod 777  'Test_for GE_1_on site_ARP.py' 
+  510  'Test_for GE_1_on site_ARP.py'
+  511  ./'Test_for GE_1_on site_ARP.py'
+  512  which python
+  513  'Test_for GE_1_on site_ARP
+  514  ls
+  515  'Test_for GE_1_on site_ARP.py'
+  516  which python
+  517  /usr/bin/python 'Test_for GE_1_on site_ARP.py'
+  518  'Test_for GE_1_on site_ARP.py'
+  519  ./'Test_for GE_1_on site_ARP.py'
+  520  /usr/bin/python 'Test_for GE_1_on site_ARP.py'
+  521  p
+  522  exit
+  523  p
+  524  sudo su -
+  525  s
+  526  p
+  527  c
+  528  s
+  529  sudo su -
+  530  source ~/.bashrc
+  531  s
+  532  alias 
+  533  pwd
+  534  nano ~/.bashrc
+  535  c
+  536  s
+  537  source ~/.bashrc
+  538  s
+  539  s
+  540  ح
+  541  p
+  542  s
+  543  w
+  544  s
+  545  exit
+  546  history
+  547  s
+  548  nano ~/.bashrc
+  549  source ~/.bashrc
+  550  echo $HISTSIZE
+  551  nano ~/.bashrc
+  552  echo $HISTSIZE
+  553  echo $HISTFILESIZE
+  554  exit
+  555  htop
+  556  sudo su 
+  557  exit
+  558  s
+  559  history 
+  560  history  | more
+  561  ./idea-IC-212.5457.46/bin/idea.sh
+  562  exit
+  563  ./idea-IC-212.5457.46/bin/idea.sh
+  564  ثطهف
+  565  exit
+  566  cd /home/babak/Desktop/
+  567  cd Desktop
+  568  ls
+  569  cd '@ practice II_Udemy_Original_Train'
+  570  python Test_2.py 
+  571  s
+  572  ./idea-IC-212.5457.46/bin/idea.sh
+  573  exit
+  574  s
+  575  ./idea-IC-212.5457.46/bin/idea.sh
+  576  exit
+  577  c
+  578  ls
+  579  python Test_2.py 
+  580  ls
+  581  pwd
+  582  python Test_2.py 
+  583  cd Desktop/
+  584  ls
+  585  cd '@ practice II_Udemy_Original_Train'
+  586  ls
+  587  python Test_2.py 
+  588  python Test_2.py \
+  589  python Test_2.py 
+  590  c
+  591  exit
+  592  ls
+  593  sudo su -
+  594  exit
+  595  ls
+  596  selinux
+  597  sestatus
+  598  sudo su -
+  599  sudo su 
+  600  exit
+  601  ping 192.168.1.122 -s 64000
+  602  ping 192.168.1.122 -s 64000
+  603  ping 192.168.1.122 -s 64000
+  604  s
+  605  s
+  606  pip freeze
+  607  pip freeze > requirements.txt 
+  608  s
+  609  source /home/namvar_test_new/venv/bin/activate
+  610  source /home/babak/time-service/venv/bin/activate
+  611  pip freeze
+  612  pip install requests
+  613  pip freeze
+  614  pip freeze > requirements.txt 
+  615  ls
+  616  pwd
+  617  cd ..
+  618  ls
+  619  c
+  620  ls
+  621  mkdir time-service
+  622  cd babak
+  623  ls
+  624  mkdir time-service
+  625  ls
+  626  cd time-service/
+  627  ls
+  628  virtualenv -p python3 venv
+  629  ls
+  630  pip install flask
+  631  pip freeze
+  632  source ./venv/bin/activate
+  633  pip install flask
+  634  pip freez
+  635  pip freeze
+  636  cd ..
+  637  ls
+  638  rm -rf time-service/
+  639  ls
+  640  mkdir time-service
+  641  cd time-service/
+  642  deactivate
+  643  virtualenv -p python3 venv
+  644  ls
+  645  source ./venv/bin/activate
+  646  pip install flask
+  647  pip freeze
+  648  pip freeze > requirements.txt
+  649  cat requirements.txt 
+  650  cd ..
+  651  ls
+  652  cp time-service/requirements.txt 
+  653  cp time-service/requirements.txt .
+  654  ls
+  655  deactivate
+  656  ll
+  657  rm -rf time-service/
+  658  mkdir time-service
+  659  cd time-service/
+  660  virtualenv -p python venv
+  661  cd ..
+  662  cd time-service/
+  663  rm -rf venv/
+  664  mv ../requirements.txt .
+  665  ls
+  666  virtualenv -p python3 venv
+  667  source ./venv/bin/activate
+  668  ls
+  669  ll
+  670  deactivate
+  671  history
+  672  s
+  673  exit
+  674  exit
+  675  س
+  676  s
+  677  which puthon
+  678  which python
+  679  history
+  680  exit
+  681  source /home/babak/time-service/venv/bin/activate
+  682  cd ..
+  683  ls
+  684  deactivate
+  685  ls
+  686  python ping_test_temp.py 
+  687  ls
+  688  python ping_test_temp.py 
+  689  c
+  690  python ping_test_temp.py 
+  691  ping 1.1.1.1 -c 4
+  692  python ping_test_temp.py 
+  693  python ping_test_temp_2.py 
+  694  source /home/babak/time-service/venv/bin/activate
+  695  deactivate 
+  696  python ping_test_temp_2.py 
+  697  deactivate 
+  698  python ping_test_temp_2.py 
+  699  deactivate 
+  700  python ping_test_temp_2.py 
+  701  python ping_test_temp_3.py 
+  702  python ping_test_temp_2.py 
+  703  ls
+  704  flask run
+  705  from flask import Flask
+  706  source /home/babak/DevOps-Practice/second-proj/venv/bin/activate
+  707  flask run 
+  708  source /home/babak/DevOps-Practice/time-service/venv/bin/activate
+  709  git status 
+  710  git add .
+  711  git commit -m "For new test"
+  712  git sta
+  713  git status
+  714  git push
+  715  cd..
+  716  deactivate
+  717  cd ..
+  718  ls
+  719  mkdir time-client
+  720  cd time-client/
+  721  ls
+  722  virtualenv -p python3 venv
+  723  ls
+  724  ll
+  725  git init 
+  726  ll
+  727  source venv/bin/activate
+  728  ll
+  729  pip install requests
+  730  pip install flask 
+  731  ll
+  732  flask run
+  733  flask run --host=0.0.0.0 --port=5001
+  734  pip freeze
+  735  flask run --host=0.0.0.0 --port=5001
+  736  pip freeze > requirements.txt
+  737  git status
+  738  git add . 
+  739  git status
+  740  git commit -m "First Commit"
+  741  git branch -M main
+  742  git remote add origin https://github.com/bobi-culture/time-client.git
+  743  git push -u origin main
+  744  deactivate
+  745  cd ..
+  746  s
+  747  ll
+  748  rm -rf time-client/
+  749  git clone https://github.com/bobi-culture/time-client.git
+  750  ll
+  751  cd time-client/
+  752  ls
+  753  virtualenv -p python3 venv
+  754  source venv/bin/activate
+  755  ls
+  756  ll
+  757  pip install -r requirements.txt 
+  758  ll
+  759  pip freeze 
+  760  ll
+  761  ls
+  762  git add .
+  763  git status
+  764  git commit -m "Modify Jenkins file for deleting image file"
+  765  git status
+  766  whoami
+  767  exit
+  768  cd /Dev
+  769  pwd
+  770  cd DevOps-Practice/
+  771  ls
+  772  cd time-service/
+  773  docker ps
+  774  docker ps a
+  775  docker ps -a
+  776  docker run --rm -d -p 5000:5000 time-service:latest
+  777  docker ps
+  778  docker run --rm -d -p 5001:5000 time-client:latest
+  779  docker ps
+  780  c
+  781  docker ps
+  782  docker run --rm -d -p 5050:5000 time-client:latest
+  783  docker ps
+  784  c
+  785  docker ps
+  786  docker stop 1046729fe405 4840499d5496 4f762c1390c2
+  787  docker ps
+  788  c
+  789  docker images
+  790  docker rmi b8becab7a0cb
+  791  docker rmi 878c28061539
+  792  docker images
+  793  docker rmi 1f1557d51b8a
+  794  docker images
+  795  c
+  796  docker ps
+  797  docker images
+  798  docker build . -t time-service:latest
+  799  docker build . -t time-client:latest
+  800  docker run --rm -p5000:5000 time-service
+  801  docker run --rm -d -p5000:5000 time-service
+  802  docker run --rm -d -p5001:5000 time-client
+  803  docker ps
+  804  docker stop 372f81d45d79
+  805  docker ps
+  806  docker run --rm -d -p5001:5000 time-client
+  807  docker ps
+  808  docker stop bc1b79b13e42
+  809  docker images
+  810  docker rmi 990ea99b1b76
+  811  docker rmi time-client:latest 
+  812  docker rmi 990ea99b1b76
+  813  docker rmi 990ea99b1b76 -f
+  814  docker ps
+  815  docker images
+  816  c
+  817  docker build . -t time-client:latest
+  818  docker run --rm -d -p5001:5000 time-client
+  819  docker ps
+  820  docker stop 990ea99b1b76
+  821  docker ps
+  822  docker stop d37e39bffd88
+  823  docker build . -t time-service:latest
+  824  docker run --rm -d -p5000:5000 time-service:latest
+  825  docker ps
+  826  docker run --rm remis
+  827  docker pull  remis
+  828  docker run  remis:4.0
+  829  docker run  -d remis
+  830  docker run  -d redis
+  831  docker run -d redis:4.0
+  832  docker run -d redis
+  833  docker images
+  834  docker run -d snort
+  835  docker pull  snort
+  836  docker pull snort
+  837  docker run snort
+  838  docker pull snort
+  839  docker pull snort:latest
+  840  docker ps
+  841  docker ps 4a83ede7e636 ded145b89abe
+  842  docker stop 4a83ede7e636 ded145b89abe
+  843  docker ps
+  844  systemctl stop docker
+  845  systemctl status docker
+  846  systemctl start docker
+  847  docker run -d snort
+  848  systemctl status docker
+  849  cd .
+  850  cd ..
+  851  docker run snort
+  852  docker run time-client
+  853  c
+  854  docker run snort
+  855  docker run mongodb
+  856  docker ps -a
+  857  docker pull redis
+  858  docker run snort
+  859  docker run --help
+  860  docker run snort:latest
+  861  docker run mysql
+  862  docker run ubuntu
+  863  docker ps
+  864  docker ps -a
+  865  bash
+  866  exit
+  867  nano ~/.bashrc
+  868  pwd
+  869  ll
+  870  ;; D
+  871  ll D
+  872  ll DevOps-Practice/
+  873  nano ~/.bashrc
+  874  source ~/.bashrc
+  875  nano ~/.bashrc
+  876  source ~/.bashrc
+  877  d
+  878  c
+  879  ll
+  880  history 
+  881  docker run snort:latest
+  882  docker images
+  883  docker run 53e520fda182
+  884  docker images
+  885  dcker ps
+  886  docker ps
+  887  docker run -rm -d bash
+  888  docker run --rm -d bash
+  889  docker ps
+  890  docker pull bash 
+  891  ratelimit-limit    
+  892  ratelimit-limit
+  893  ratelimit-remaining
+  894  TOKEN=$(curl "https://auth.docker.io/token?service=registry.docker.io&scope=repository:ratelimitpreview/test:pull" | jq -r .token)
+  895  s
+  896  docker login
+  897  docker pull snort
+  898  docker pull redis:latest
+  899  docker ps
+  900  docker images
+  901  docker run 2e50d70ba706
+  902  docker pull snort:latest
+  903  docker login
+  904  docker pull alexandreoda/snort
+  905  docker images
+  906  dicker run --rm  alexandreoda/snort
+  907  docker run --rm  alexandreoda/snort
+  908  d
+  909  docker images
+  910  docker run ff53b538b34e
+  911  d
+  912  docker images
+  913  docker rmi ff53b538b34e
+  914  docker rmi ff53b538b34e -f
+  915  docker os
+  916  docker ps
+  917  docker stop ff53b538b34e
+  918  docker ps
+  919  docker stop quizzical_northcutt
+  920  docker ps
+  921  docker stop angry_hypatia
+  922  docker ps
+  923  c
+  924  docker images
+  925  docker rmi ff53b538b34e
+  926  docker rmi alexandreoda/snort
+  927  docker rmi alexandreoda/snort -f
+  928  docker images
+  929  history
+  930  docker images
+  931  docker rmi bash
+  932  docker rmi bash  -f
+  933  docker images
+  934  docker rmi bash  -f
+  935  docker images
+  936  docker rmi 53e520fda182 -f
+  937  docker images
+  938  docker rmi 7cc4fecf9f5b
+  939  docker images
+  940  c
+  941  ll
+  942  cd time-service/
+  943  activate
+  944  source venv/bin/activate
+  945  docker images
+  946  ls
+  947  docker rmi 54c9d81cbb44
+  948  docker rmi 54c9d81cbb44 =d
+  949  docker rmi 54c9d81cbb44 -d
+  950  docker rmi 54c9d81cbb44 -f
+  951  docker images
+  952  docker rmi c316d5a335a5 -f
+  953  docker images
+  954  docker run -d c316d5a335a5
+  955  docker rmi c316d5a335a5 -f
+  956  docker images
+  957  docker rmi 27edb73bd1fc -f
+  958  docker images
+  959  dorker rmi 2e50d70ba706 -f
+  960  docker rmi 2e50d70ba706 -f
+  961  docker images
+  962  docker image
+  963  docker images
+  964  deactive
+  965  venv/bin/deactive
+  966  venv/bin/deactivate
+  967  deactivate
+  968  cd ..
+  969  pwd
+  970  mkdir ubuntu
+  971  cd ubuntu/
+  972  ls
+  973  virtualenv -p python3 venv
+  974  ls
+  975  venv/bin/activate
+  976  ls
+  977  cd venv/
+  978  ls
+  979  venv/bin/activate
+  980  ls
+  981  ll
+  982  pip install
+  983  pip list
+  984  venv/bin/activate
+  985  cd ..
+  986  venv/bin/activate
+  987  ls
+  988  ll
+  989  source venv/bin/activate
+  990  pip list
+  991  pip freeze 
+  992  ls
+  993  docker pull ubuntu
+  994  docker login 
+  995  docker pull ubuntu
+  996  ll
+  997  docker images
+  998  docker run alpain
+  999  p
+ 1000  docker run 2e50d70ba706
+ 1001  COPY certificate/cert.pem /etc/auge_server/certificate/cert.pem
+ 1002  cp certificate/cert.pem /etc/auge_server/certificate/cert.pem
+ 1003  docker pull ubuntu
+ 1004  sudo docker version
+ 1005  cat /etc/systemd/system/docker.service.d/https-proxy.conf
+ 1006  nano /etc/systemd/system/docker.service.d/https-proxy.conf
+ 1007  ll /etc/systemd/system/docker.service.d/https-proxy.conf
+ 1008  ll /etc/systemd/system/docker.service.d
+ 1009  ll /etc/systemd/system/
+ 1010  docker pull ubuntu
+ 1011  pwd
+ 1012  cd ..
+ 1013  deactivate
+ 1014  c
+ 1015  docker ps
+ 1016  docker pull snort
+ 1017  docker pull alexandreoda/snort
+ 1018  docker login
+ 1019  c
+ 1020  exit
+ 1021  j
+ 1022  eit
+ 1023  exit
+ 1024  cd ..
+ 1025  pwd
+ 1026  ls
+ 1027  ll
+ 1028  nano ~/.bashrc
+ 1029  p
+ 1030  exit
+ 1031  docker images
+ 1032  docker ps -a
+ 1033  docker rmi quizzical_northcutt 
+ 1034  docker rmi ff53b538b34e
+ 1035  docker rmi ff53b538b34e -f
+ 1036  docker volumes
+ 1037  docker volumels
+ 1038  docker volume ls
+ 1039  docke network ls
+ 1040  docker network ls
+ 1041  docker pull busybox
+ 1042  docker login
+ 1043  systemctl restart docker 
+ 1044  systemctl status  docker 
+ 1045  docker login
+ 1046  docker login -u
+ 1047  docker system prune --all --force --volumes
+ 1048  docker images
+ 1049  systemctl stop docker
+ 1050  docker pull busybox
+ 1051  speedcli 
+ 1052  history | grep "speed"
+ 1053  pip uninstall docker
+ 1054  dpkg -l | grep -i docker
+ 1055  sudo apt-get purge -y docker-engine docker docker.io docker-ce docker-ce-cli
+ 1056  sudo apt-get autoremove -y --purge docker-engine docker docker.io docker-ce 
+ 1057  sudo rm -rf /var/lib/docker /etc/docker
+ 1058  sudo rm /etc/apparmor.d/docker
+ 1059  sudo groupdel docker
+ 1060  sudo rm -rf /var/run/docker.sock
+ 1061  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1062  sudo apt-get update
+ 1063  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+ 1064  docker
+ 1065  docker images
+ 1066  docker pull busybox
+ 1067  docker login
+ 1068  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+ 1069  sudo mkdir -p /etc/apt/keyrings
+ 1070  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 1071  cat Downloads/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 1072  sudo apt-get update
+ 1073  d
+ 1074  ll
+ 1075  mkdir fortest
+ 1076  cd fortest/
+ 1077  echo "# fotest" >> README.md
+ 1078  l
+ 1079  ls
+ 1080  git init
+ 1081  ll
+ 1082  ll -ali
+ 1083  git commit -m "first commit"
+ 1084  git branch -M main
+ 1085  ll
+ 1086  git remote add origin https://github.com/bobi-culture/fotest.git
+ 1087  git branch -M main
+ 1088  ll
+ 1089  git status
+ 1090  git login
+ 1091  git checkout master
+ 1092  git checkout origin/master
+ 1093  ll
+ 1094  ls -la
+ 1095  rm -rf .git/
+ 1096  git init
+ 1097  git commit -am "First commit"
+ 1098  git add .
+ 1099  git commit -am "First commit"
+ 1100  git branch -M main
+ 1101  cd ..
+ 1102  rm fortest/
+ 1103  rm -rf fortst/
+ 1104  mkdir fortest;cd fortest
+ 1105  mkdir fortest
+ 1106  cd fortest/
+ 1107  cd ..
+ 1108  rm -rf fortest/
+ 1109  mkdir fortest
+ 1110  cd fortest/
+ 1111  ls 
+ 1112  ll
+ 1113  touch README.md
+ 1114  ll
+ 1115  git init
+ 1116  git add .
+ 1117  git branch -M main
+ 1118  git commit -m "First Commit"
+ 1119  git branch -M main
+ 1120  git remote add origin https://github.com/bobi-culture/fotest.git
+ 1121  git push -u origin main
+ 1122  pwd
+ 1123  j
+ 1124  cd ../..
+ 1125  j
+ 1126  p
+ 1127  ز
+ 1128  c
+ 1129  python 
+ 1130  exit
+ 1131  history
+ 1132  s
+ 1133  d
+ 1134  ll
+ 1135  cd time-service/
+ 1136  ll
+ 1137  nano time-srvice.yaml 
+ 1138  cp time-srvice.yaml time-srvice_2.yaml 
+ 1139  nano time-srvice.yaml 
+ 1140  docker-compose -f time-srvice.yaml 
+ 1141  docker-compose -f time-srvice.yaml up
+ 1142  nano time-srvice.yaml 
+ 1143  docker-compose -f time-srvice.yaml up
+ 1144  history > history_23-07-2022
