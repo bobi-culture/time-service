@@ -1,0 +1,77 @@
+[33mcommit bd3a1fcd0fa79335d527f1d428d46cd47a9ac5b6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Mon Jul 25 19:58:24 2022 +0430
+
+    Testing Git-Ignore directory features
+
+[33mcommit 3dffc2b99711a4459ecebb8c52fcd92be63c4d54[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Tue Jul 19 21:47:53 2022 +0430
+
+    Testing time-service and Jenkins working purpose
+
+[33mcommit 28f77152ae7338251c40cf8ed37a652ace60128b[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Tue Jul 19 15:00:09 2022 +0430
+
+    Continuesly ... resolving the issue about Jenkins failure
+
+[33mcommit fdef71d2503cf242aa57c585a5b2685e0083b910[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Tue Jul 19 12:48:40 2022 +0430
+
+    After Docker problem that I had with Connection
+
+[33mcommit f68461617c97b9117a8677d5cae692c5dfc582db[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Sat Jul 2 21:56:51 2022 +0430
+
+    For new test
+
+[33mcommit 877b3025e17712d489102a62b7ff7fa49c3a6fb1[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Sat Jul 2 18:56:27 2022 +0430
+
+    Ping function added to app
+
+[33mcommit 52b322e9f3ebbc9b9d9af54fb4e010bd2f156920[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Thu Jun 30 16:45:51 2022 +0430
+
+    Add hello
+
+[33mcommit 0b706f6b366d567bb4ca1375f13f8030133d31d4[m
+Author: Namvar <namvar@gmail.com>
+Date:   Thu Jun 30 00:01:46 2022 +0200
+
+    Add api/time endpoint
+
+[33mcommit c9173a074038d05598448bb3105c4e09f2872aa0[m
+Author: Namvar <namvar@gmail.com>
+Date:   Wed Jun 29 23:53:35 2022 +0200
+
+    Change time format & Dockerfile cleanup
+
+[33mcommit 5291fb3186ffd6c776c24be304c19ba2c6ddf832[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Wed Jun 29 18:48:05 2022 +0430
+
+    Fift  one
+
+[33mcommit 7922e380bfb045dcfc9bec783f6bd6ed04d754af[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Wed Jun 29 18:04:22 2022 +0430
+
+    Third  one
+
+[33mcommit 14677f81a2dc28f51b964b2b654f7276d787b03d[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Wed Jun 29 17:53:05 2022 +0430
+
+    Second one
+
+[33mcommit 667534c5b10eda57e8bb2f974acc89472a560db3[m
+Author: Babak <farhang.babak@gmail.com>
+Date:   Wed Jun 29 16:28:22 2022 +0430
+
+    First Commit for TIME-SERVICE
