@@ -16,7 +16,7 @@ def time_me():
 
 @app.route("/api/hello", methods = ['GET', 'POST'])
 def hello():
-    return "Hi !!!"
+    return "Hello there !!!"
 
 @app.route("/api/pingme", methods = ['GET', 'POST'])
 def pingme():
