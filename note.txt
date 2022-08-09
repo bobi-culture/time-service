@@ -15,3 +15,10 @@ For new test. :)
 The New line just for test Jenkins is working properly, 19-07-2022
 
 SSH key has been set :)
+
+
+Today is : 09-08-2022
+
+	This test is for checking CI  in Jenkins. That's it.
+
+
