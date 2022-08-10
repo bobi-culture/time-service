@@ -21,4 +21,6 @@ Today is : 09-08-2022
 
 	This test is for checking CI  in Jenkins. That's it.
 
+The latest changes to test Jenkins - 10-08-2022
+
 
