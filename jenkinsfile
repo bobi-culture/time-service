@@ -4,33 +4,41 @@ pipeline{
 	agent any
 
 	environment {
-		DOCKERHUB_CREDENTIALS=credentials('dockerhub-cred-raja')
+		IMAGE_ID = "achilles1024/time-service:latest"
+		//IMAGE_ID = "achilles1024/time-client:1.${BUILD_NUMBER}"
+		DOCKERHUB_CREDENTIALS=credentials('farhang.babak-dockerhub')
 	}
 
 	stages {
 
 		stage('Build') {
 			steps {
-				sh 'docker build -t time-service:latest .'
+				sh "docker build -t ${IMAGE_ID} ."
 			}
 		}
 
 		stage('Login') {
 			steps {
-				sh 'echo $DOCKERHUB_CREDENTIALS_PSW | docker login -u $DOCKERHUB_CREDENTIALS_USR --password-stdin'
+				sh " echo ${DOCKERHUB_CREDENTIALS_PSW} |  docker  login  -u ${DOCKERHUB_CREDENTIALS_USR} --password-stdin"
 			}
 		}
 
 		stage('Push') {
 			steps {
-				sh 'docker push achilles1024/time-service:latest'
+				sh "sudo docker push ${IMAGE_ID}"
 			}
 		}
+		stage('Clean') {
+         steps{
+           sh "sudo docker rmi ${IMAGE_ID}"
+         }
+       }
+
 	}
 
 	post {
 		always {
-			sh 'docker logout'
+			sh "sudo docker logout"
 		}
 	}
 

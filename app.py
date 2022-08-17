@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/", methods = ['GET', 'POST'])
 def home():    
-    return "Time service is up!"
+    return f"<font face=tahoma size=3> Time service is up! </font>"
 
 @app.route("/api/time", methods = ['GET'])
 def time_me():
@@ -16,19 +16,12 @@ def time_me():
 
 @app.route("/api/hello", methods = ['GET', 'POST'])
 def hello():
-    return "Hello there again!!!"
+    return f"<font face=tahoma size=3> Hello there again!!!"
 
 @app.route("/api/pingme", methods = ['GET', 'POST'])
 def pingme():
 
-    # host = "8.8.8.8";
-    # response = os.system("ping -c 1 " + host)
-    # if response == 0:
-    #     return f"<font face=tahoma size=10 color=green> Fine :) </font>"
-    # else:
-    #     return f"<font face=tahoma size=20 color=red> Failed </font>"
-
-    hosts = ["8.8.8.8", "4.4.4.4"];
+    hosts = ["8.8.8.8", "216.239.38.120"] #, ,  ", , "192.168.0.100",  ];
 
     i = 0;
 
@@ -36,12 +29,20 @@ def pingme():
         response = os.system("ping -c 1 " + hosts[i])
     
         if response == 0:
-            return f"<font face=tahoma size=10 color=green> \
-                The Internet connection is stabilished and is Fine :) </font>"
-        else:
-            return f"<font face=tahoma size=20 color=red> \
-                The Internet connection is Failed !!! </font>"
+            return f"<center> <font face=tahoma size=5 color=green> \
+                The Internet connection is stabilished and is Fine :) <br> </font>" \
+            f"<font face=tahoma size=5 color=blue> \
+                </br> Ping  could reach to Google.com <br> </font> </center>" \
+    
 
+        else:
+            return f"<center> <font face=tahoma size=5 color=red> \
+                The Internet connection is Failed !!! </font> </center>"
+
+
+    # <!DOCTYPE html>
+    # <html>
+    # return f"<meta http-equiv='refresh' content='10'>"
 #app.run(debug=True)
 #"<html><meta http-equiv='refresh' content='5' ></html>"
 #app.run(host='172.18.0.22', threaded = True, debug = True)
