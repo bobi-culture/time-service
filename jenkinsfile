@@ -4,7 +4,7 @@ pipeline{
 	agent any
 
 	environment {
-		IMAGE_ID = "achilles1024/time-service:latest"
+		IMAGE_ID = "achilles1024/time-service:1.0.20"
 		//IMAGE_ID = "achilles1024/time-client:1.${BUILD_NUMBER}"
 		DOCKERHUB_CREDENTIALS=credentials('farhang.babak-dockerhub')
 	}
