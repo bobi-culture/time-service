@@ -19,6 +19,6 @@ SSH key has been set :)
 
 Today is : 09-08-2022
 
-	This test is for checking CI  in Jenkins. That's it.
+	This test is for checking CI  in Jenkins. That's it. 
 
 
